@@ -1,0 +1,45 @@
+page-game {
+  .logo {
+    background-color: transparent;
+    size: contain;
+    width: 100%;
+    height: 22vh;
+    justify-content: center;
+
+  }
+
+  .game {
+    font-size: 2em;
+    color: #F8D747;
+    text-align: center;
+  }
+
+  .line {
+    width: 100%;
+    height: 4px;
+    background-color: #F8D747;
+  }
+
+  .yaase {
+    opacity: 1;
+    width: 100%;
+    height: 22vh;
+    justify-content: center;
+
+  }
+
+  .yard {
+    background-image: url(../../assets/imgs/game.png);
+    background-size: contain;
+    height: 31vh;
+    width: 100%;
+    background-repeat: no-repeat;
+
+  }
+
+  .potato {
+
+  }
+
+
+}

@@ -1,3 +1,91 @@
 page-home {
 
+  .logo {
+    background-color: transparent;
+    size: contain;
+    width: 100%;
+    height: 22vh;
+    justify-content: center;
+    padding: 15px;
+
+  }
+
+  .game {
+    background-image: url(../../assets/imgs/boat.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 23vh;
+  }
+
+  .video {
+    background-image: url(../../assets/imgs/trees.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 23vh;
+  }
+
+  .about {
+    background-image: url(../../assets/imgs/log.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 23vh;
+  }
+
+  h1 {
+    font-size: 6em;
+    color: #F8D747;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      align-content: center;
+      position: center;
+      text-align: center;
+      width: 100%;
+  }
+
+    .fuck {
+      background-image: url(../../assets/imgs/boat.jpg);
+      background-color: #f4f4f4;
+      background-size: cover;
+      background-repeat: no-repeat;
+      color: #F8D747;
+      opacity: 0.9;
+      font-size: 5em;
+      height: 100%;
+
+    }
+
+  .shit {
+    background-image: url(../../assets/imgs/trees.jpg);
+    background-color: #f4f4f4;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #F8D747;
+    opacity: 0.9;
+    font-size: 5em;
+    height: 100%;
+
+  }
+
+
+  .blet {
+    background-image: url(../../assets/imgs/log.jpg);
+    background-color: #f4f4f4;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #F8D747;
+    opacity: 0.9;
+    font-size: 5em;
+    height: 100%;
+  }
+
+  ion-row {
+    margin: 20px 0 0 0;
+  }
 }

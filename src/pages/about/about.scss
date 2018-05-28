@@ -1,0 +1,74 @@
+page-about {
+  .logo {
+    background-color: transparent;
+    size: contain;
+    width: 100%;
+    height: 22vh;
+    justify-content: center;
+    padding: 15px;
+
+  }
+
+  .about {
+    font-size: 2em;
+    color: #F8D747;
+    text-align: center;
+  }
+
+  .line {
+    width: 100%;
+    height: 4px;
+    background-color: #F8D747;
+  }
+
+  .potato {
+  justify-content: center;
+    align-items: center;
+    align-content: center;
+  }
+
+  .aboute {
+    background-size: cover;
+    width: 600px;
+    height: 350px;
+
+  }
+
+  .block {
+    width: 40%;
+    height: 40vh;
+    background-color: #b8b8b8;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    margin: -50px 0 0 0;
+    z-index: 23;
+    position: relative;
+  }
+}
+
+.yaas {
+  opacity: 1;
+  width: 100%;
+  height: 22vh;
+  justify-content: center;
+
+}
+
+.blocked {
+  margin: -100px 0 0 0;
+  background-color: #b3b3b3;
+  width: 70%;
+  height: 100vh;
+  position: relative;
+  z-index: 22;
+}
+
+.texta {
+  font-size: 1.2em;
+}
+
+//justify-content: center;
+//align-content: center;
+//align-items: center;
+//background-position: center;
